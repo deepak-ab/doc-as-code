@@ -12,4 +12,18 @@ blah blah blah
 _lorem_ **ipsum**
 
 
+unordered list
+
+- car
+- bike 
+- aeroplane
+
+ordered list
+
+1. apple
+2. orange
+3. grapes
+
+For more information, [Click Here](https://google.com)
+
 
