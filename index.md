@@ -2,7 +2,7 @@
 fname: Deepak
 dob: 21081982
 placeofbirth: aluva
-_layout:template.hmtl
+layout:template.hmtl
 ---
 
 #Introduction
