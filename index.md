@@ -2,6 +2,7 @@
 name: Deepak
 dob: 21081982
 placeofbirth: aluva
+layout:template.hmtl
 ---
 
 #Introduction
