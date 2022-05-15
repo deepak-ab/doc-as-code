@@ -1,9 +1,9 @@
 ---
-year: 2022
-
+name: Deepak
+dob: 21081982
+placeofbirth: aluva
 ---
 
 #Introduction
 
-
-This year is {{page.year}}
+My name is {{page.name}} and I was born in the year {{page.dob}} at {{page.placeofbirth}}.
